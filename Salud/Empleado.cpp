@@ -24,5 +24,4 @@ void Empleado::mostrarPersona()
 {
     this->mostrarPersona();
     cout << "Cargo: " << this->cargo << endl;
-    cout << ""
 }
